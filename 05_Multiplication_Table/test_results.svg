@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="485" viewBox="0 0 1000 485">
+ <rect width="1000" height="485" rx="16" fill="#101820"/>
+ <rect width="1000" height="112" rx="16" fill="#1d2b36"/>
+ <circle cx="30" cy="30" r="7" fill="#ff6b6b"/><circle cx="54" cy="30" r="7" fill="#ffd166"/><circle cx="78" cy="30" r="7" fill="#06d6a0"/>
+ <text x="36" y="67" fill="#ffffff" font-family="Arial,sans-serif" font-size="25" font-weight="700">Multiplication Table Generator</text>
+ <text x="36" y="94" fill="#b8c8d6" font-family="Arial,sans-serif" font-size="14">ABL Python assignment · scripted console test run · Python 3</text>
+ <text x="44" y="145" fill="#9fb3c8" font-family="Arial,sans-serif" font-size="13" font-weight="700">CASE ID</text>
+ <text x="140" y="145" fill="#9fb3c8" font-family="Arial,sans-serif" font-size="13" font-weight="700">TEST</text>
+ <text x="480" y="145" fill="#9fb3c8" font-family="Arial,sans-serif" font-size="13" font-weight="700">STATUS</text>
+ <text x="555" y="145" fill="#9fb3c8" font-family="Arial,sans-serif" font-size="13" font-weight="700">OBSERVED OUTPUT / NOTE</text>
+ <style>.id{font:700 13px Arial,sans-serif;fill:#7cc7ff}.case{font:14px Arial,sans-serif;fill:#e8eef3}.status{font:700 12px Arial,sans-serif}.out{font:13px Arial,sans-serif;fill:#d1dde6}</style>
+ <text x="44" y="174" class="id">MT-01</text><text x="140" y="174" class="case">Table of 5 to 10</text><text x="480" y="174" class="status" fill="#8fe3a2">PASS</text><text x="555" y="174" class="out">5 × 10 = 50</text><text x="44" y="216" class="id">MT-02</text><text x="140" y="216" class="case">Table of 0</text><text x="480" y="216" class="status" fill="#8fe3a2">PASS</text><text x="555" y="216" class="out">All products are 0</text><text x="44" y="258" class="id">MT-03</text><text x="140" y="258" class="case">Negative number</text><text x="480" y="258" class="status" fill="#8fe3a2">PASS</text><text x="555" y="258" class="out">Negative products correct</text><text x="44" y="300" class="id">MT-04</text><text x="140" y="300" class="case">Table of 12</text><text x="480" y="300" class="status" fill="#8fe3a2">PASS</text><text x="555" y="300" class="out">12 × 4 = 48</text><text x="44" y="342" class="id">MT-05</text><text x="140" y="342" class="case">Invalid limit 0</text><text x="480" y="342" class="status" fill="#8fe3a2">PASS</text><text x="555" y="342" class="out">Validation message</text>
+ <line x1="35" y1="431" x2="965" y2="431" stroke="#314451"/>
+ <text x="36" y="457" fill="#ffffff" font-family="Arial,sans-serif" font-size="15" font-weight="700">Summary: 5 passed · 0 failed · 5 cases</text>
+ <text x="570" y="457" fill="#9fb3c8" font-family="Arial,sans-serif" font-size="12">Generated test-run evidence; see test_execution.md</text>
+ </svg>
