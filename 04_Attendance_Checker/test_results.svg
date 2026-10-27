@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="527" viewBox="0 0 1000 527">
+ <rect width="1000" height="527" rx="16" fill="#101820"/>
+ <rect width="1000" height="112" rx="16" fill="#1d2b36"/>
+ <circle cx="30" cy="30" r="7" fill="#ff6b6b"/><circle cx="54" cy="30" r="7" fill="#ffd166"/><circle cx="78" cy="30" r="7" fill="#06d6a0"/>
+ <text x="36" y="67" fill="#ffffff" font-family="Arial,sans-serif" font-size="25" font-weight="700">Attendance Eligibility Checker</text>
+ <text x="36" y="94" fill="#b8c8d6" font-family="Arial,sans-serif" font-size="14">ABL Python assignment · scripted console test run · Python 3</text>
+ <text x="44" y="145" fill="#9fb3c8" font-family="Arial,sans-serif" font-size="13" font-weight="700">CASE ID</text>
+ <text x="140" y="145" fill="#9fb3c8" font-family="Arial,sans-serif" font-size="13" font-weight="700">TEST</text>
+ <text x="480" y="145" fill="#9fb3c8" font-family="Arial,sans-serif" font-size="13" font-weight="700">STATUS</text>
+ <text x="555" y="145" fill="#9fb3c8" font-family="Arial,sans-serif" font-size="13" font-weight="700">OBSERVED OUTPUT / NOTE</text>
+ <style>.id{font:700 13px Arial,sans-serif;fill:#7cc7ff}.case{font:14px Arial,sans-serif;fill:#e8eef3}.status{font:700 12px Arial,sans-serif}.out{font:13px Arial,sans-serif;fill:#d1dde6}</style>
+ <text x="44" y="174" class="id">AT-01</text><text x="140" y="174" class="case">90% attendance</text><text x="480" y="174" class="status" fill="#8fe3a2">PASS</text><text x="555" y="174" class="out">Eligible</text><text x="44" y="216" class="id">AT-02</text><text x="140" y="216" class="case">75% threshold</text><text x="480" y="216" class="status" fill="#8fe3a2">PASS</text><text x="555" y="216" class="out">Eligible</text><text x="44" y="258" class="id">AT-03</text><text x="140" y="258" class="case">74% attendance</text><text x="480" y="258" class="status" fill="#8fe3a2">PASS</text><text x="555" y="258" class="out">Not eligible</text><text x="44" y="300" class="id">AT-04</text><text x="140" y="300" class="case">Zero attendance</text><text x="480" y="300" class="status" fill="#8fe3a2">PASS</text><text x="555" y="300" class="out">Not eligible</text><text x="44" y="342" class="id">AT-05</text><text x="140" y="342" class="case">Zero total classes</text><text x="480" y="342" class="status" fill="#8fe3a2">PASS</text><text x="555" y="342" class="out">Validation message</text><text x="44" y="384" class="id">AT-06</text><text x="140" y="384" class="case">Attended &gt; total</text><text x="480" y="384" class="status" fill="#8fe3a2">PASS</text><text x="555" y="384" class="out">Validation message</text>
+ <line x1="35" y1="473" x2="965" y2="473" stroke="#314451"/>
+ <text x="36" y="499" fill="#ffffff" font-family="Arial,sans-serif" font-size="15" font-weight="700">Summary: 6 passed · 0 failed · 6 cases</text>
+ <text x="570" y="499" fill="#9fb3c8" font-family="Arial,sans-serif" font-size="12">Generated test-run evidence; see test_execution.md</text>
+ </svg>
